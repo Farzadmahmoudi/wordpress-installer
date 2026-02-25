@@ -2,10 +2,9 @@
 
 # ==============================
 # WordPress Farsi Auto Installer
-# Domain: blog.kianet123.ir
 # ==============================
 
-DOMAIN="blog.kianet123.ir"
+DOMAIN=
 DB_NAME="wp"
 DB_USER="wpuser"
 DB_PASS="123456789"
