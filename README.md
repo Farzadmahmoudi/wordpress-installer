@@ -33,11 +33,6 @@ sudo ./install.sh
 
 
 
-بعد از اجرا، سایت شما در دسترس خواهد بود:
-
-http://yourdomain.com
-
-
 
 
 
