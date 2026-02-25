@@ -30,3 +30,15 @@ git clone https://github.com/Farzadmahmoudi/wordpress-installer.git
 cd wordpress-installer
 chmod +x install.sh
 sudo ./install.sh
+
+
+
+بعد از اجرا، سایت شما در دسترس خواهد بود:
+
+http://yourdomain.com
+
+
+
+
+
+
