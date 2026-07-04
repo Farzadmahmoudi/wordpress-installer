@@ -54,9 +54,21 @@ apt install certbot python3-certbot-nginx -y
 certbot --nginx -d yourdomain.com
 
 
+```
 
+# WordPress Farsi Auto Installer 🚀
 
+An open-source Bash script that automatically installs and configures a complete WordPress stack on Ubuntu servers.
 
+## Features
+
+- Automatic Nginx installation
+- Automatic MariaDB installation
+- PHP-FPM configuration
+- WordPress (Farsi) installation
+- Automatic Nginx virtual host configuration
+- SSL setup support
+- Fast deployment
 
 
 
