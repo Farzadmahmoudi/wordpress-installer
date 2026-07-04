@@ -39,7 +39,7 @@ sudo ./install.sh
 
 - **Database:** wp
 - **Username:** wpuser
-- **Password:** 123456789
+- **Password:** example_password
 
 ⚠ پیشنهاد می‌شود پس از نصب، رمز دیتابیس را تغییر دهید.
 
